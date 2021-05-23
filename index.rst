@@ -62,7 +62,7 @@ This page contains all slides and agenda for the training.
 .. _Machine Learning Mastery article: https://machinelearningmastery.com/what-is-semi-supervised-learning/
 .. _Google Quick Draw game: https://quickdraw.withgoogle.com/
 .. _YouTube video: https://www.youtube.com/watch?v=1Du1XScHCww
-.. _Towardsdatascience: https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+.. _Towardsdatascience article: https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
 .. _Playground TensorFlow: http://playground.tensorflow.org
 .. _Google Colaboratory FAQs: https://research.google.com/colaboratory/faq.html
 .. _Development Seed: https://developmentseed.org/sat-ml-training/IntroMachineLearning
