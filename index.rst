@@ -47,15 +47,23 @@ This page contains all slides and agenda for the training.
 
 * `How Machine Learning Works`_ by Yann LeCun
 * `Medium article`_ "Machine Learning in 8 minutes"
+* `Medium article Towards AI`_ "What is Machine Learning"
 * `Machine Learning Mastery article`_ "What is Semi-Supervised Learning"
 * `Google Quick Draw game`_
 * `YouTube video`_ "Dance Moves of Deep Learning Activation Functions"
+* `Playground TensorFlow`_
+* `Towardsdatascience article`_ "A Comprehensive Guide to Convolutional Neural Networks"
 * `Google Colaboratory FAQs`_
+* `Development Seed`_ "Sattelite Machine Learning Training"
 
 .. _How Machine Learning Works: https://www.facebook.com/Engineering/videos/10154673882797200/
 .. _Medium article: https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b
+.. _Medium article Towards AI: https://pub.towardsai.net/what-is-machine-learning-ml-b58162f97ec7
 .. _Machine Learning Mastery article: https://machinelearningmastery.com/what-is-semi-supervised-learning/
 .. _Google Quick Draw game: https://quickdraw.withgoogle.com/
 .. _YouTube video: https://www.youtube.com/watch?v=1Du1XScHCww
+.. _Towardsdatascience: https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+.. _Playground TensorFlow: http://playground.tensorflow.org
 .. _Google Colaboratory FAQs: https://research.google.com/colaboratory/faq.html
+.. _Development Seed: https://developmentseed.org/sat-ml-training/IntroMachineLearning
 
