@@ -8,28 +8,28 @@ This page contains all slides and agenda for the training.
 
 **Agenda**
 
-+----------------------------+-------------------------------------------------------------------------------------------------------------------------------+--+--+--+
-| Day                        | Content                                                                                                                       |  |  |  |
-+----------------------------+-------------------------------------------------------------------------------------------------------------------------------+--+--+--+
-| Day 1: 05/25, 9 - 11 am    | Where are we? Summary of the crop mapping work                                                                                |  |  |  |
-|                            | Introduction to Artificial Intelligence (AI) and Machine Learning (ML)                                                        |  |  |  |
-|                            | Types of AI and ML                                                                                                            |  |  |  |
-|                            | Introduction to deep learning & Neural Networks                                                                               |  |  |  |
-+----------------------------+-------------------------------------------------------------------------------------------------------------------------------+--+--+--+
-| Day 2: 05/26, 9 - 11 am    | Recap Day 1                                                                                                                   |  |  |  |
-|                            | Most common model structures (Neural Networks)                                                                                |  |  |  |
-|                            | Terminology                                                                                                                   |  |  |  |
-|                            | Advantages and Disadvantages                                                                                                  |  |  |  |
-|                            | Prepare presentation about what you have learned, questions you might have                                                    |  |  |  |
-+----------------------------+-------------------------------------------------------------------------------------------------------------------------------+--+--+--+
-| Day 3: 05/27, 9 - 11 am    | Recap Day 2 and presentations / discussion                                                                                    |  |  |  |
-|                            | “Play” with Neural Network demos                                                                                              |  |  |  |
-+----------------------------+-------------------------------------------------------------------------------------------------------------------------------+--+--+--+
-| Day 4: 05/28, 9 - 10:30 am | Recap of previous days                                                                                                        |  |  |  |
-|                            | Working in the environment: Brief Introduction to Google Machine Learning, Google Colab, Google Cloud Platform and TensorFlow |  |  |  |
-|                            | Preliminary results of crop mapping approach and discussion                                                                   |  |  |  |
-|                            | Next steps                                                                                                                    |  |  |  |
-+----------------------------+-------------------------------------------------------------------------------------------------------------------------------+--+--+--+
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Day                        | Content                                                                                                                         |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Day 1: 05/25, 9 - 11 am    | * Where are we? Summary of the crop mapping work                                                                                |
+|                            | * Introduction to Artificial Intelligence (AI) and Machine Learning (ML)                                                        |
+|                            | * Types of AI and ML                                                                                                            |
+|                            | * Introduction to deep learning & Neural Networks                                                                               |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Day 2: 05/26, 9 - 11 am    | * Recap Day 1                                                                                                                   |
+|                            | * Most common model structures (Neural Networks)                                                                                |
+|                            | * Terminology                                                                                                                   |
+|                            | * Advantages and Disadvantages                                                                                                  |
+|                            | * Prepare presentation about what you have learned, questions you might have                                                    |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Day 3: 05/27, 9 - 11 am    | * Recap Day 2 and presentations / discussion                                                                                    |
+|                            | * “Play” with Neural Network demos                                                                                              |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Day 4: 05/28, 9 - 10:30 am | * Recap of previous days                                                                                                        |
+|                            | * Working in the environment: Brief Introduction to Google Machine Learning, Google Colab, Google Cloud Platform and TensorFlow |
+|                            | * Preliminary results of crop mapping approach and discussion                                                                   |
+|                            | * Next steps                                                                                                                    |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 
 **Materials**
 
