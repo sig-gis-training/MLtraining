@@ -4,12 +4,14 @@
 Basics of Neural Networks
 =========================
 
+Cambodia Crop Mapping
+
 This page contains all slides and agenda for the training.
 
 **Agenda**
 
 +----------------------------+---------------------------------------------------------------------------------------------------------------------------------+
-| Day                        | Content                                                                                                                         |
+| **Day**                    | **Content**                                                                                                                     |
 +----------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | Day 1: 05/25, 9 - 11 am    | * Where are we? Summary of the crop mapping work                                                                                |
 |                            | * Introduction to Artificial Intelligence (AI) and Machine Learning (ML)                                                        |
