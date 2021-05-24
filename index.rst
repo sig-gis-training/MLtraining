@@ -55,6 +55,7 @@ This page contains all slides and agenda for the training.
 * `Towardsdatascience article`_ "A Comprehensive Guide to Convolutional Neural Networks"
 * `Google Colaboratory FAQs`_
 * `Development Seed`_ "Sattelite Machine Learning Training"
+* `Activation Functions in Neural Networks`_, Towardsdatascience article
 
 .. _How Machine Learning Works: https://www.facebook.com/Engineering/videos/10154673882797200/
 .. _Medium article: https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b
@@ -66,4 +67,4 @@ This page contains all slides and agenda for the training.
 .. _Playground TensorFlow: http://playground.tensorflow.org
 .. _Google Colaboratory FAQs: https://research.google.com/colaboratory/faq.html
 .. _Development Seed: https://developmentseed.org/sat-ml-training/IntroMachineLearning
-
+.. _Activation Functions in Neural Networks: https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
