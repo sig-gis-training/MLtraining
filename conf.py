@@ -89,6 +89,23 @@ html_theme_options = {
             "icon": "fas fa-home",
         },        
     ],
+    "favicons": [
+      {
+         "rel": "icon",
+         "sizes": "16x16",
+         "href": "favicon-16x16.png",
+      },
+      {
+         "rel": "icon",
+         "sizes": "32x32",
+         "href": "favicon-32x32.png",
+      },
+      {
+         "rel": "apple-touch-icon",
+         "sizes": "180x180",
+         "href": "apple-touch-icon-180x180.png"
+      },
+   ]
 #    "collapse_navigation": True
 }
 
