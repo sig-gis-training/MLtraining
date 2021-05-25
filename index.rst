@@ -36,13 +36,6 @@ This page contains all slides and agenda for the training.
 **Materials**
 
 * Day 1: `Slides 1`_ | `Recording 1`_
-
-.. video:: _static/RecordingDay1.mp4
-   :width: 500
-   :height: 300
-  
-|
-
 * Day 2: `Slides 2`_ | Recording 2
 * Day 3: Slides 3 | Recording 3
 * Day 4: Slides 4 | Recording 4
