@@ -36,6 +36,13 @@ This page contains all slides and agenda for the training.
 **Materials**
 
 * Day 1: `Slides 1`_ | `Recording 1`_
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yZ_gAXi6vYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
 * Day 2: `Slides 2`_ | Recording 2
 * Day 3: Slides 3 | Recording 3
 * Day 4: Slides 4 | Recording 4
