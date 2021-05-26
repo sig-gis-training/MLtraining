@@ -64,6 +64,8 @@ This page contains all slides and agenda for the training.
 * `Google Colaboratory FAQs`_
 * `Development Seed`_ "Sattelite Machine Learning Training"
 * `Activation Functions in Neural Networks`_, Towardsdatascience article
+* Google's `Machine Learning Crash Course`_
+* `TensorFlow YouTube video`_ Zero to Hero
 
 .. _How Machine Learning Works: https://www.facebook.com/Engineering/videos/10154673882797200/
 .. _Medium article: https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b
@@ -76,3 +78,5 @@ This page contains all slides and agenda for the training.
 .. _Google Colaboratory FAQs: https://research.google.com/colaboratory/faq.html
 .. _Development Seed: https://developmentseed.org/sat-ml-training/IntroMachineLearning
 .. _Activation Functions in Neural Networks: https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
+.. _Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course
+.. _TensorFlow YouTube video: https://youtu.be/KNAWp2S3w94
