@@ -24,12 +24,11 @@ This page contains all slides and agenda for the training.
 |                                  | * Advantages and Disadvantages                                                                                                  |
 |                                  | * Prepare presentation about what you have learned, questions you might have                                                    |
 +----------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
-| Day 3: 05/27, 8:30 - 10:30 am    | * Recap Day 2 and presentations / discussion                                                                                    |
+| Day 3: 05/27, 8:30 - 10:30 am    | * Recap Day 2 and main discussion                                                                                               |
 |                                  | * “Play” with Neural Network demos                                                                                              |
 +----------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | Day 4: 05/28, 8:30 - 10:00 am    | * Recap of previous days                                                                                                        |
 |                                  | * Working in the environment: Brief Introduction to Google Machine Learning, Google Colab, Google Cloud Platform and TensorFlow |
-|                                  | * Preliminary results of crop mapping approach and discussion                                                                   |
 |                                  | * Next steps                                                                                                                    |
 +----------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 
