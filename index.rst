@@ -43,13 +43,14 @@ This page contains all slides and agenda for the training.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yZ_gAXi6vYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-* Day 2: `Slides 2`_ | Recording 2
+* Day 2: `Slides 2`_ | `Recording 2`_
 * Day 3: Slides 3 | Recording 3
 * Day 4: Slides 4 | Recording 4
 
 .. _Slides 1: https://docs.google.com/presentation/d/1Zc1jCAWBRTscJejKdF9M0d5JB6NwvTCtfCJSN6d35YI/edit?usp=sharing
 .. _Recording 1: https://drive.google.com/file/d/1fm1kxoVLk7VjmFPGZdz6IB7t8vVBs9-h/view?usp=sharing
 .. _Slides 2: https://docs.google.com/presentation/d/1bD-9V9ekrAulH5Jhryi0T0Ep9_Lh9TdMW-u9sNL4YO4/edit?usp=sharing
+.. _Recording 2: https://drive.google.com/file/d/1Lb88onHo64sccWVTZUT8m3ZQum5d5E0-/view?usp=sharing
 
 **Resources**
 
