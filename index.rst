@@ -43,14 +43,30 @@ This page contains all slides and agenda for the training.
     </div>
 
 * Day 2: `Slides 2`_ | `Recording 2`_
-* Day 3: `Slides 3`_ | Recording 3
-* Day 4: Slides 4 | Recording 4
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/L4zmGmANFLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+* Day 3: `Slides 3`_ | `Recording 3`_
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gty6fIQW9bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+* Day 4: `Slides 4`_ | Recording 4
 
 .. _Slides 1: https://docs.google.com/presentation/d/1Zc1jCAWBRTscJejKdF9M0d5JB6NwvTCtfCJSN6d35YI/edit?usp=sharing
 .. _Recording 1: https://drive.google.com/file/d/1fm1kxoVLk7VjmFPGZdz6IB7t8vVBs9-h/view?usp=sharing
 .. _Slides 2: https://docs.google.com/presentation/d/1bD-9V9ekrAulH5Jhryi0T0Ep9_Lh9TdMW-u9sNL4YO4/edit?usp=sharing
 .. _Recording 2: https://drive.google.com/file/d/1Lb88onHo64sccWVTZUT8m3ZQum5d5E0-/view?usp=sharing
 .. _Slides 3: https://docs.google.com/presentation/d/1CtqExFFSzmaeasvTVmDxNMTDZeq3RI7hDTY0fcphkeo/edit?usp=sharing
+.. _Recording 3: https://drive.google.com/file/d/1pNAsNKGAvf8G7XIWT7pzS_JSJhKdvivw/view?usp=sharing
+.. _Slides 4: https://docs.google.com/presentation/d/1iI6j7u8mZdx5F7aFZDPu40yywWouVEiIUE3gYu5UeL0/edit?usp=sharing
 
 **Resources**
 
@@ -60,8 +76,9 @@ This page contains all slides and agenda for the training.
 * `Machine Learning Mastery article`_ "What is Semi-Supervised Learning"
 * `Google Quick Draw game`_
 * `YouTube video`_ "Dance Moves of Deep Learning Activation Functions"
-* `TensorFlow Playground`_
 * `Towardsdatascience article`_ "A Comprehensive Guide to Convolutional Neural Networks"
+* `TensorFlow Playground`_
+* `TensorFlow page`_
 * `Google Colaboratory FAQs`_
 * `Development Seed`_ "Sattelite Machine Learning Training"
 * `Activation Functions in Neural Networks`_, Towardsdatascience article
@@ -77,6 +94,7 @@ This page contains all slides and agenda for the training.
 .. _YouTube video: https://www.youtube.com/watch?v=1Du1XScHCww
 .. _Towardsdatascience article: https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
 .. _TensorFlow Playground: http://playground.tensorflow.org
+.. _TensorFlow page: https://www.tensorflow.org/
 .. _Google Colaboratory FAQs: https://research.google.com/colaboratory/faq.html
 .. _Development Seed: https://developmentseed.org/sat-ml-training/IntroMachineLearning
 .. _Activation Functions in Neural Networks: https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
