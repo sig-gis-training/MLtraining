@@ -22,7 +22,7 @@ This page contains all slides and agenda for the training.
 |                                  | * Most common model structures (Neural Networks)                                                                                |
 |                                  | * Terminology                                                                                                                   |
 |                                  | * Advantages and Disadvantages                                                                                                  |
-|                                  | * Prepare presentation about what you have learned, questions you might have                                                    |
+|                                  | * Discussion about our crop mapping project                                                                                     |
 +----------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | Day 3: 05/27, 8:30 - 10:30 am    | * Recap Day 2 and main discussion                                                                                               |
 |                                  | * “Play” with Neural Network demos                                                                                              |
