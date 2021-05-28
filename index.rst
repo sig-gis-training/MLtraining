@@ -85,6 +85,8 @@ This page contains all slides and agenda for the training.
 * Google's `Machine Learning Crash Course`_
 * `TensorFlow YouTube video`_ Zero to Hero
 * `Michael Nielsen`_'s Neural Network and Deep Learning content
+* `Google Earth Engine tutorials`_
+* `End-to-end Google Earth Engine`_ by Ujaval Ghandi
 
 .. _How Machine Learning Works: https://www.facebook.com/Engineering/videos/10154673882797200/
 .. _Medium article: https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b
@@ -101,4 +103,6 @@ This page contains all slides and agenda for the training.
 .. _Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course
 .. _TensorFlow YouTube video: https://youtu.be/KNAWp2S3w94
 .. _Michael Nielsen: http://neuralnetworksanddeeplearning.com/index.html
+.. _Google Earth Engine tutorials: https://developers.google.com/earth-engine/tutorials/tutorials
+.. _End-to-end Google Earth Engine: https://courses.spatialthoughts.com/end-to-end-gee.html
 
