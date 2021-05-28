@@ -22,10 +22,10 @@ This page contains all slides and agenda for the training.
 |                                  | * Most common model structures (Neural Networks)                                                                                |
 |                                  | * Terminology                                                                                                                   |
 |                                  | * Advantages and Disadvantages                                                                                                  |
-|                                  | * Discussion about our crop mapping project                                                                                     |
 +----------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
-| Day 3: 05/27, 8:30 - 10:30 am    | * Recap Day 2 and main discussion                                                                                               |
+| Day 3: 05/27, 8:30 - 10:30 am    | * Recap Day 2                                                                                                                   |
 |                                  | * “Play” with Neural Network demos                                                                                              |
+|                                  | * Main discussion about the crop mapping work                                                                                   |
 +----------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | Day 4: 05/28, 8:30 - 10:00 am    | * Recap of previous days                                                                                                        |
 |                                  | * Working in the environment: Brief Introduction to Google Machine Learning, Google Colab, Google Cloud Platform and TensorFlow |
