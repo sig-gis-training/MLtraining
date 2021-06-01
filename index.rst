@@ -58,7 +58,11 @@ This page contains all slides and agenda for the training.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Gty6fIQW9bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-* Day 4: `Slides 4`_ | Recording 4
+* Day 4: `Slides 4`_ | `Recording 4`_
+
+ <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OF8NoLKepPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 .. _Slides 1: https://docs.google.com/presentation/d/1Zc1jCAWBRTscJejKdF9M0d5JB6NwvTCtfCJSN6d35YI/edit?usp=sharing
 .. _Recording 1: https://drive.google.com/file/d/1fm1kxoVLk7VjmFPGZdz6IB7t8vVBs9-h/view?usp=sharing
@@ -67,6 +71,7 @@ This page contains all slides and agenda for the training.
 .. _Slides 3: https://docs.google.com/presentation/d/1CtqExFFSzmaeasvTVmDxNMTDZeq3RI7hDTY0fcphkeo/edit?usp=sharing
 .. _Recording 3: https://drive.google.com/file/d/1pNAsNKGAvf8G7XIWT7pzS_JSJhKdvivw/view?usp=sharing
 .. _Slides 4: https://docs.google.com/presentation/d/1iI6j7u8mZdx5F7aFZDPu40yywWouVEiIUE3gYu5UeL0/edit?usp=sharing
+.. _Recording 4: https://drive.google.com/file/d/1FcilpFkb-LgN__SV8spwM_yfeKupRqDP/view?usp=sharing
 
 **Resources**
 
