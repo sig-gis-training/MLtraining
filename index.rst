@@ -60,6 +60,8 @@ This page contains all slides and agenda for the training.
 
 * Day 4: `Slides 4`_ | `Recording 4`_
 
+.. raw:: html
+
  <div style="text-align: center; margin-bottom: 2em;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OF8NoLKepPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
