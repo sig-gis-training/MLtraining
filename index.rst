@@ -113,3 +113,8 @@ This page contains all slides and agenda for the training.
 .. _Google Earth Engine tutorials: https://developers.google.com/earth-engine/tutorials/tutorials
 .. _End-to-end Google Earth Engine: https://courses.spatialthoughts.com/end-to-end-gee.html
 
+**Acknowledgement**
+
+This was developed by SIG, SIG-NAL through funding with SilvaCarbon for use in the Cambodia crop mapping work.
+
+These materials build on work developed and supported by `SERVIR <https://servirglobal.net>` and Google TensorFlow workshops.
