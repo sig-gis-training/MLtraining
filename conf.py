@@ -48,7 +48,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = "pydata_sphinx_theme"
 
 # Add SIG logo
-html_logo = "_static/signal.jpg"
+html_logo = "_static/sig-signal.png"
 
 # Add links to social media
 html_theme_options = {
