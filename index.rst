@@ -115,6 +115,6 @@ This page contains all slides and agenda for the training.
 
 **Acknowledgement**
 
-This was developed by SIG, SIG-NAL through funding with SilvaCarbon for use in the Cambodia crop mapping work.
+This was developed by `SIG <https://sig-gis.com>`_, `SIG-NAL <https://sig-nal.org>`_ through funding with `SilvaCarbon <https://www.silvacarbon.org/>`_ for use in the Cambodia crop mapping work.
 
-These materials build on work developed and supported by `SERVIR <https://servirglobal.net>` and Google TensorFlow workshops.
+These materials build on work developed and supported by `SERVIR <https://servirglobal.net>`_ and Google TensorFlow workshops.
